@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     height: 65px;
-    background: linear-gradient(90.41deg, #2c1f8d 1.14%, #3c18da 100%);
+    background: #22afcb;
     color: white;
     padding: 30px;
 }
@@ -55,7 +55,7 @@ main {
     grid-column: 1 / -1;
     font-family: "Karla", sans-serif;
     border-radius: 5px;
-    background: linear-gradient(90.41deg, #2c1f8d 1.14%, #3c18da 100%);
+    background: #22afcb;
     color: white;
     border: none;
     cursor: pointer;
@@ -106,7 +106,7 @@ main {
 }
 
 .footer{
-    color: rgb(30, 0, 255);
+    color: #22afcb;
     text-align: center;
     margin-top: 110px;
 }
